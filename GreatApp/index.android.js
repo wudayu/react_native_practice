@@ -1,7 +1,3 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- */
 'use strict';
 
 var React = require('react-native');
@@ -24,6 +20,9 @@ var GreatApp = React.createClass({
         </Text>
         <Text style={styles.instructions}>
           Shake or press menu button for dev menu
+        </Text>
+        <Text style={styles.welcome}>
+          Hello Beiyuan ~
         </Text>
       </View>
     );

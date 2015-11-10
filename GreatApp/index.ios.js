@@ -26,6 +26,9 @@ var GreatApp = React.createClass({
           Press Cmd+R to reload,{'\n'}
           Cmd+D or shake for dev menu
         </Text>
+        <Text style={styles.welcome}>
+          Hello Beiyuan ~
+        </Text>
       </View>
     );
   }
