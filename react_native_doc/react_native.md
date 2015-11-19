@@ -3,7 +3,7 @@
 ####一.基本概念
 1. React Native是使用React来进行开发的前端框架。可以用来开发基于iOS，Android等移动平台的App应用。
 2. React Native基于Virtual DOM。不同于传统的H5开发模式，React Native通过VDOM封装了不同平台（iOS或Android）上的原生控件，同时通过VDOM向开发者暴露了相同的使用方式的UI控件。这一点大大提高了程序的运行效率。  
-![](https://raw.githubusercontent.com/wudayu/react_native_practice/master/react_native_doc/structure.png =350x)
+![](https://raw.githubusercontent.com/wudayu/react_native_practice/master/react_native_doc/structure.png)
 3. React Native的思想是**“Learn once, write anywhere”**，而不是类似于Java的**“Write once, run anywhere”**。
 4. 就目前而言，React Native还处于刚起步阶段，Android平台的支持也刚刚发布。各方面问题也相对较多。但随着Facebook的推广，其零散的问题也会逐渐被解决。毕竟其实现方式是比现在比较流行的H5App开发方式（如：Ionic+Cordova+AngularJs），更为新颖与振奋人心的。其发展前景值得期待。
 
@@ -20,7 +20,7 @@
 ####三.基本用法与Demo
 请至 <https://github.com/wudayu/react_native_practice>下载查看代码实例。  
 安装React Native开发环境：  
-![](https://raw.githubusercontent.com/wudayu/react_native_practice/master/react_native_doc/install.png =600x "安装React Native")  
+![](https://raw.githubusercontent.com/wudayu/react_native_practice/master/react_native_doc/install.png "安装React Native")  
 阅读代码时，请注意以下几点：    
 
 * 目录的结构。  
